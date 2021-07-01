@@ -81,7 +81,7 @@ body {
 }
 .rsm {
     border-radius: 10px;
-    display: block;
+    
 }
 .sidebar-menu ul li a{
     color: black;
@@ -113,6 +113,12 @@ flex: 1;
 
 .label-orange{
     background-color: orange;
+    color: white;
+    padding: .5rem 1rem;
+}
+
+.label-red{
+    background-color:red;
     color: white;
     padding: .5rem 1rem;
 }
